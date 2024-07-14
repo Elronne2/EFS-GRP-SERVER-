@@ -1,0 +1,53 @@
+___What are the EFS GRP  rules?__
+
+
+
+The /rules command lays it out quite nicely:
+
+Be respectful to staff and others
+No cheating/hacking/use of mods
+No swearing or spam in chat
+Have fun!
+However, some of these rules are vague so here is an explanation of each...
+
+Be respectful of staff and others
+Bullying of any form will not be tolerated on our server. If someone is being derogative towards you or another player, report it by going to the player's profile like: https://funwave.wstr.fr or contact a Moderator or Operator on the server and the player(s) will be dealt with swiftly.
+
+Respect our staff. If you believe a Moderator is breaking the rules or misusing their permissions, collect evidence and contact an Operator.
+
+Our staff do not get paid to moderate the server, they have offered up their own free time to help out. Do not abuse them, in the same way we expect you not to be abusive to one another.
+
+No cheating/hacking/use of mods
+Now we understand how this can be vague! Because some mods are fun here is an example list of what type of mods are not allowed and what are not allowed on the server.
+
+Allowed
+Not Allowed
+Forge Modloader    Any hack mod
+Such as water-walking, X-ray, flight, sprinthacks, etc.
+Shaders
+Any mod that improves how the game looks, but do not change any mechanics    Smart Moving Mod
+Provides unnatural movement
+Optifine    X-Ray Mods
+Any mod which allows you to see through blocks
+Rei's Minimap    A minimap with an entity radar
+Any mod which indicates where mobs or players are
+Advanced HUD    Damage Indicators
+Shows information you technically shouldn't know
+TooManyItems    Chest Finder
+Fullbright Mod    Zombe's Mod
+Some of these features are really useful but it includes things like fly and x-ray so it's banned!
+Also, no exploiting any sort of glitches which are not meant to be in the map or plugin. This may include being able to get outside of the map or overlap regions in Survival.
+
+No swearing or spam in chat
+We do not appreciate spam of any type. The minimal of this is sending 3 of the same message consecutively within the space of a few seconds. Spam also includes garbage messages, posting many punctuation marks in a single message, or single lines all of one number/letter/symbol.
+
+We do not allow for the use of ALL CAPS in game. It spams and clutters the chat and furthermore it is annoying. You wouldn't go around shouting all the time in real life so don't do it in game.
+
+No constant swearing as we have players of all different ages and Minecraft is a family game. So we will not tolerate any foul language, just remember to keep it PG-13.
+
+Do not advertise any links to websites or other Minecraft servers outside the topic of conversation.
+
+Have fun!
+And last of all, have fun!
+
+There's no point to any of these rules if you can't have fun. ELIXIRMC hosts players from across the globe, from many different countries, religions and races so just be respectful to other players and use common sense, the summary of rules are so simple you may not even need to read the above! 

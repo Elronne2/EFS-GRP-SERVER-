@@ -1,0 +1,53 @@
+_Quelles sont les règles DU EFS GRP ?
+
+
+
+La commande /rules le présente assez bien :
+
+Soyez respectueux envers le personnel et les autres
+Pas de triche/piratage/utilisation de mods
+Pas de jurons ni de spam dans le chat
+Amusez-vous!
+Cependant, certaines de ces règles sont vagues, voici donc une explication de chacune...
+
+Soyez respectueux du personnel et des autres
+L'intimidation, sous quelque forme que ce soit, ne sera pas tolérée sur notre serveur. Si quelqu'un est désobligeant envers vous ou un autre joueur, signalez-le en accédant au profil du joueur comme : https://funwave.wstr.fr ou contactez un modérateur ou un opérateur sur le serveur et le(s) joueur(s) sera traité rapidement.
+
+Respectez notre personnel. Si vous pensez qu'un modérateur enfreint les règles ou utilise mal ses autorisations, rassemblez des preuves et contactez un opérateur.
+
+Notre personnel n'est pas payé pour modérer le serveur, ils ont offert leur temps libre pour nous aider. Ne les abusez pas, de la même manière que nous attendons de vous que vous ne vous injuriiez pas les uns envers les autres.
+
+Pas de triche/piratage/utilisation de mods
+On comprend désormais à quel point cela peut être vague ! Parce que certains mods sont amusants, voici un exemple de liste des types de mods qui ne sont pas autorisés et de ceux qui ne sont pas autorisés sur le serveur.
+
+Autorisé
+Interdit
+Forge Modloader Tout mod de hack
+Tels que la marche aquatique, les rayons X, le vol, les sprinthacks, etc.
+Shaders
+Tout mod qui améliore l'apparence du jeu, mais ne change aucune mécanique. Smart Moving Mod
+Fournit un mouvement non naturel
+Mods Optifine pour rayons X
+Tout mod qui vous permet de voir à travers les blocs
+Mini-carte de Rei Une mini-carte avec un radar d'entité
+Tout mod qui indique où se trouvent les monstres ou les joueurs
+Indicateurs avancés de dégâts du HUD
+Affiche des informations que vous ne devriez techniquement pas connaître
+Outil de recherche de coffre TooManyItems
+Mod Fullbright Mod de Zombe
+Certaines de ces fonctionnalités sont vraiment utiles, mais elles incluent des choses comme la mouche et les rayons X, donc c'est interdit !
+De plus, aucune exploitation de problèmes qui ne sont pas censés se trouver dans la carte ou le plugin. Cela peut inclure la possibilité de sortir de la carte ou de chevaucher des régions dans Survival.
+
+Pas de jurons ni de spam dans le chat
+Nous n’apprécions aucun spam, quel qu’il soit. Le minimum consiste à envoyer 3 messages identiques consécutivement en l’espace de quelques secondes. Le spam comprend également des messages inutiles, affichant de nombreux signes de ponctuation dans un seul message ou des lignes simples contenant chacune un seul chiffre/lettre/symbole.
+
+Nous n'autorisons pas l'utilisation de TOUTES LES MAJUSCULES dans le jeu. Cela spamme et encombre le chat et en plus c'est ennuyeux. Vous ne crieriez pas tout le temps dans la vraie vie, alors ne le faites pas dans le jeu.
+
+Pas de jurons constants car nous avons des joueurs de tous âges et Minecraft est un jeu familial. Nous ne tolérerons donc aucun langage grossier, n’oubliez pas de le conserver PG-13.
+
+N'annoncez aucun lien vers des sites Web ou d'autres serveurs Minecraft en dehors du sujet de conversation.
+
+Amusez-vous!
+Et enfin, amusez-vous !
+
+Aucune de ces règles ne sert à rien si vous ne pouvez pas vous amuser. ELIXIRMC accueille des joueurs du monde entier, de nombreux pays, religions et races différents, alors soyez simplement respectueux envers les autres joueurs et faites preuve de bon sens, le résumé des règles est si simple que vous n'aurez peut-être même pas besoin de lire ce qui précède !
